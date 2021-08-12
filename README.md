@@ -1,0 +1,2 @@
+# JavaSudoku
+Small Sudoku App
