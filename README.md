@@ -1,4 +1,4 @@
-# JavaSudoku
+# Java Sudoku Game
 Small Sudoku App
 
 In order to actually build and launch this project, you will need to configure some kind of build tool. I have included the build.gradle and settings.gradle files, which should allow you to set the project up using Gradle, should that be your preferred tool.
